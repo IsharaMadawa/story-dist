@@ -1,0 +1,21 @@
+{
+  "name": "upnorwayadmin",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/upnorwayadmin.umd.js",
+  "module": "fesm5/upnorwayadmin.js",
+  "es2015": "fesm2015/upnorwayadmin.js",
+  "esm5": "esm5/upnorwayadmin.js",
+  "esm2015": "esm2015/upnorwayadmin.js",
+  "fesm5": "fesm5/upnorwayadmin.js",
+  "fesm2015": "fesm2015/upnorwayadmin.js",
+  "typings": "upnorwayadmin.d.ts",
+  "metadata": "upnorwayadmin.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
